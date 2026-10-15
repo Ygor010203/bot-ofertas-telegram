@@ -1,0 +1,7 @@
+.env
+estado.json
+*.log
+produtos.csv
+feed_pinterest.csv
+__pycache__/
+.venv/
